@@ -69,6 +69,7 @@ border-top-width: 4px;
                     <label class="form-label" for="typeText2">Cvv</label>
                     <h4> {{$cvv}}</h4>
                   </div>
+                  
                   <br>
                   {{-- <button type="button" class="btn btn-info btn-lg btn-rounded">
                     <i class="fas fa-arrow-right"></i> --}}
